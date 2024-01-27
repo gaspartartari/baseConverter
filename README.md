@@ -1,4 +1,4 @@
-# Calculator Conversion
+# Conversion Calculator
 
 This Java program provides a user-friendly interface for converting numbers between decimal, binary, and hexadecimal representations. It utilizes a simple console-based menu system to allow users to select their desired conversion options. The conversion logic is implemented in the `Calculator` class, with exception handling for various input scenarios.
 
